@@ -159,7 +159,7 @@ else:
     # Logs Tab
     with tabs[1]:
         st.header("Activity Log")
-        logs = load_logs()
+        logs = load_logs().reverse()
         if logs:
             for log in logs:
                 st.text(log)
