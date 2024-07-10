@@ -1,0 +1,6 @@
+Rithik increased Rajpal's score: Current score of Rajpal = 5
+Rithik increased Rajpal's score: Current score of Rajpal = 6
+Rithik increased Jeeva's score: Current score of Jeeva = 5
+Rithik increased Magesh's score: Current score of Magesh = 1
+Rithik decreased Rajpal's score: Current score of Rajpal = -1
+Rithik reset all scores
