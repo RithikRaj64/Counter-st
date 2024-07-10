@@ -35,7 +35,8 @@ def save_credentials(credentials):
 def load_logs():
     if os.path.exists("logs.txt"):
         with open("logs.txt", "r") as file:
-            return file.readlines()
+            logs = file.readlines()
+            return logs[::-1]
     else:
         return []
 
